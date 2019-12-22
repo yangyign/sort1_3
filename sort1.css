@@ -2,7 +2,7 @@
 * @Author: hxzyy
 * @Date:   2019-12-19 21:16:39
 * @Last Modified by:   hxzyy
-* @Last Modified time: 2019-12-22 17:10:47
+* @Last Modified time: 2019-12-22 17:59:42
 */
 *{
 	padding: 0;
@@ -43,7 +43,7 @@ li{
 	margin-right: 10px;
 	margin-bottom: 10px;
 }
-.li1 a{
+.li1 span{
 	position: relative;
 	top: 20px;
 	left: 14px;
@@ -51,7 +51,7 @@ li{
 	font-size: 20px;
 /* 	font-weight: bolder; */
 }
-.li1 a:hover{
+.li1 span:hover{
 	color: #255784;
 	background: #2196f3;
 	box-shadow:0 0 15px #2196f3, 0 0 40px #2196f3, 0 0 10px #2196f3;
