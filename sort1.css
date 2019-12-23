@@ -2,7 +2,7 @@
 * @Author: hxzyy
 * @Date:   2019-12-19 21:16:39
 * @Last Modified by:   hxzyy
-* @Last Modified time: 2019-12-23 16:34:48
+* @Last Modified time: 2019-12-23 16:43:01
 */
 *{
 	padding: 0;
@@ -66,12 +66,12 @@ li{
 	height: 560px;
 	padding-top: 10px;
 	padding-left: 15px;
+	background-color: #669999;
 
 }
 .second-wrap li{
 	width: 200px;
 	height: 260px;
-	background-color: #669999;
 	margin-right: 10px;
 	margin-bottom: 10px;
 	float: right;
