@@ -2,7 +2,7 @@
 * @Author: hxzyy
 * @Date:   2019-12-19 21:16:39
 * @Last Modified by:   hxzyy
-* @Last Modified time: 2019-12-22 17:59:42
+* @Last Modified time: 2019-12-23 16:34:48
 */
 *{
 	padding: 0;
@@ -47,7 +47,8 @@ li{
 	position: relative;
 	top: 20px;
 	left: 14px;
-	color: blue;
+	color: #1688ea;
+	font-weight: bold;
 	font-size: 20px;
 /* 	font-weight: bolder; */
 }
@@ -70,7 +71,7 @@ li{
 .second-wrap li{
 	width: 200px;
 	height: 260px;
-/* 	background-color: black; */
+	background-color: #669999;
 	margin-right: 10px;
 	margin-bottom: 10px;
 	float: right;
